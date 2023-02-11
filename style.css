@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+     background-color: grey;
+
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#intro h1 {
+    color: black;
+}
+
+#intro{
+    background : linear-gradient(90deg, rgba(227,168,165,1) 100%, rgba(213,193,192,1) 100%); 
+}
+
+#origami1{
+   background: linear-gradient(90deg, rgba(238,174,202,1) 20%, rgba(195,180,217,1) 62%);
+}
+
+#origami2{
+  background: linear-gradient(90deg, rgba(238,174,202,1) 20%, rgba(195,180,217,1) 62%);
+}
+
+.line {
+    height: 6px;
+    background-color:darkcyan;
+    width: 70px;
+    margin: 8px auto;
+}
